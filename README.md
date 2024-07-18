@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/api?username=rafamanetti)](https://github.com/anuraghazra/github-readme-stats
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
